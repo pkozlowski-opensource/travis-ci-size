@@ -1,0 +1,15 @@
+{
+  "name": "travis-ci-size",
+  "version": "0.0.3",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "gulp-mocha": "~1.0.0",
+    "gulp-jshint": "~1.8.4",
+    "gulp": "~3.8.7"
+  },
+  "dependencies": {
+    "request": "~2.40.0"
+  }
+}
